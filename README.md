@@ -1,1 +1,1 @@
-# PolCatalina-ParcialFront3
+# Repositorio dedicado al almacenamiento del Exámen Parcial de Front End III
